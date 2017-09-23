@@ -1,0 +1,3 @@
+[submodule "buglvl2"]
+	path = buglvl2
+	url = git@github.com:rcoscali/gitkraken-buglvl2.git
